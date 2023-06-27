@@ -8,10 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           
-          {/* Hi From Lyall !!!
-          New update in code!!!
-          I was changed !
-          sukanya */}
           I was changed in feature branch
 
         </p>
