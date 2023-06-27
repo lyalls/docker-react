@@ -10,8 +10,8 @@ function App() {
           
           Hi From Lyall !!!
           New update in code
-          i was changed !
-
+          I was changed !
+          sukanya
         </p>
         <a
           className="App-link"
